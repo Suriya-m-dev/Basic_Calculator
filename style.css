@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(black,white,black);
+}
+
+h1{
+    background: linear-gradient(pink,rgb(104, 218, 241),pink);
+    color: red;
+    height:70px;
+    /* width: 1100px; */
+    text-align: center;
+    padding-top: 30px;
+    margin: auto;
+    margin-top: 80px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+h2{ 
+    background: linear-gradient(black,white,black);
+    color: black;
+    height:70px;  
+    width: 1100px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 45px;
+    border-radius: 5px;
+    
+}
+#result{
+    background: green;
+    height: 50px;
+    width: 240px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+    margin-top: 100px;
+    font-size:x-large;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+
+#value
+{
+    
+    height: 50px;
+    width: 240px;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+    
+
+}
